@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OIWrap", "OIWrap\OIWrap.csproj", "{62123E33-7F2A-4E57-83D2-7CF4C4967834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{42E85328-1F08-4AEF-9DBD-17F4F3DD0818}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{62123E33-7F2A-4E57-83D2-7CF4C4967834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62123E33-7F2A-4E57-83D2-7CF4C4967834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62123E33-7F2A-4E57-83D2-7CF4C4967834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E85328-1F08-4AEF-9DBD-17F4F3DD0818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E85328-1F08-4AEF-9DBD-17F4F3DD0818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E85328-1F08-4AEF-9DBD-17F4F3DD0818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E85328-1F08-4AEF-9DBD-17F4F3DD0818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
