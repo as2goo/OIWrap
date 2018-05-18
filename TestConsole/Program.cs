@@ -7,7 +7,7 @@ namespace TestConsole
     {
         static void Main(string[] args)
         {
-            var oWordApp = new OIWrap.Word();
+            var oWordApp = new OIWrap.WordC();
 
             Console.Write("Starten von Microsoft Word...");
             oWordApp.Init();
