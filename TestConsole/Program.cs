@@ -13,6 +13,7 @@ namespace TestConsole
             oWordApp.Init();
             Console.WriteLine("erfolgreich!");
             Console.ReadKey();
+
         }
     }
 }
